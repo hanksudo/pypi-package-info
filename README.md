@@ -13,8 +13,7 @@ Know project's Python packages easily
 
 ```bash
 brew install httpie jq
-curl https://raw.githubusercontent.com/hanksudo/pypi-package-info/master/pypi-pkg-info.sh > ~/bin/pypi-pkg-info
-chmod a+x ~/bin/pypi-pkg-info
+curl https://raw.githubusercontent.com/hanksudo/pypi-package-info/master/pypi-pkg-info.sh > ~/bin/pypi-pkg-info && chmod a+x ~/bin/pypi-pkg-info
 ```
 
 ### Usage
